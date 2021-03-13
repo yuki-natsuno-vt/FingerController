@@ -1,0 +1,2 @@
+# FingerController
+UnityでHumanoidモデルの指をジョイパッドなどから操作するためのスクリプトです。
