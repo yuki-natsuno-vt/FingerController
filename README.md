@@ -11,7 +11,7 @@ Unityエディタ上ではGameウインドウ、ビルド済の場合はアプ�
 
 ## 使い方
 ### 導入
-1. [パッケージ](https://github.com/yuki-natsuno-vt/FingerController/releases/download/v0.1/FingerController.unitypackage)をダウンロードして、Unityにインポートします。
+1. [**パッケージ**](https://github.com/yuki-natsuno-vt/FingerController/releases/download/v0.1/FingerController.unitypackage)をダウンロードして、Unityにインポートします。
 
 2. FingerControllerフォルダ内のFingerController.prefabをシーンに追加します。
 
